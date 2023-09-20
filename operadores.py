@@ -77,7 +77,13 @@ print("el resultado de la división entera: "+ str(resultado))
 
 
 
+print("programa para determinar cual es el numero mas grande de los tres")
+print("=================================================================")
 
+
+valor_a=int(input("introduzca el primer numero"))
+valor_b=
+valor_c
 
 
 
