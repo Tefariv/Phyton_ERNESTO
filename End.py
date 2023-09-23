@@ -4,8 +4,8 @@ print("ejemplo")
 
 
 #uso de format 
-nombre=Stephanie 
+nombre="Stephanie"
 edad=17
 
-print ("hola",(),"tienes", (), "años".format(nombre, edad))
+print ("hola ",()," tienes ", (), " años".format(nombre, edad))
 
