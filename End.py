@@ -2,3 +2,10 @@
 print("Esto es un ", end="")
 print("ejemplo")
 
+
+#uso de format 
+nombre=Stephanie 
+edad=17
+
+print ("hola",(),"tienes", (), "años".format(nombre, edad))
+
