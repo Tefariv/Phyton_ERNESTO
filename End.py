@@ -9,3 +9,7 @@ edad=17
 
 print ("hola ",()," tienes ", (), " años".format(nombre, edad))
 
+#otro uso del format
+
+print("Hola ",(nombre)," tienes ",(edad), " años".format(nombre="Tefa", edad=17)
+
