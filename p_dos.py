@@ -9,14 +9,18 @@ if compra <1000:
         compra= compra-(compra*0.15)
         print(compra)
     elif compra < 10000:
-         compra= compra-(compra*0.15)
+        compra= compra-(compra*0.15)
         print(compra)
-    if else 
+    elif compra < 15000:
+        compra= compra-(compra*0.15)
+        print(compra)
+    elif compra > 25000:
+        compra= compra-(compra*0.25)
+        print(compra)
+    
+
+    
         
-    
-    
-    
-    
 else:
     print("El valor es incorrecto")
     
