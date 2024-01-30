@@ -75,5 +75,21 @@ else:
     
 print("fin")
     
+    
+#operadores relacionales
+
+print("\n introduce dos numeros a comparar: \n")
+
+num_uno=int(input("introduce el primer numero: ")
+num_dos=int(input("introduce el segundo numero: ")
+
+if num_uno != num_dos:
+    print("es diferente...")
+elif num_uno > num_dos:
+    print("es mayor...")
+elif num_uno >= num_dos:
+    print("Es mayor o igual...")
+
+
         
         
