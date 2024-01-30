@@ -35,11 +35,12 @@ print("conversor")
 print("\n=========\n")
 print("menu de opciones)
 
-opcion_uno=int(input("Elige uno para pasar de numero a letra: "))
-opcion_dos=int(input("Elige dos para pasar de letra a numero: "))
+print("Elige uno para pasar de numero a letra: ")
+print("elige dos para pasar de palabra a numero")
 
-if opcion_uno==1:
-print("converosr de numero a letra")
+opcion=int(input("cual es tu opcion deseada? :"))
+if opcion==1:
+print("\nconverosr de numero a letra\n")
     dato_uno=int(input("cual es el numero que deseas pasar a palabra? :"))
     if dato_uno==1:
         print("el numero es 'uno'")
@@ -54,8 +55,8 @@ print("converosr de numero a letra")
     elif:
         print("el numero no esta registrado"$
         
-elif opcion_uno==2:
-print("conversor de numero a palabra")
+elif opcion==2:
+print("\nconversor de numero a palabra\n")
     dato_dos=str(input("cual es la palabra qur deseas pasar a numero? :"))
     if dato_dos==uno:
         print("el numero es '1'")
@@ -70,6 +71,9 @@ print("conversor de numero a palabra")
     elif:
         print("la palabra no esta registrado")
 else:
-    print("Fin")
+    print("opcion no disponible ")
+    
+print("fin")
+    
         
         
