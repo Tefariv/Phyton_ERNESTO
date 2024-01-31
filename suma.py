@@ -105,21 +105,22 @@ print("Hola" + nombre+ "esto es el incremento o decremento de una variable")
 
 print("incremento de una variable")
 x=1
-print(x)
+print("el valor inicial de x es: ,x)
 x+=1
 x+=1
 x+=1
 x+=1
-print(x)
+print("el valor final de x es: , x)
 
 print("Decremento de una variable")
 x=5
-print(x)
+print("el valor inicial de x es: ",x)
 x-=1
 x-=1
 x-=1
 x-=1
-print(x)
+print("el valor final de x es: ",x
+)
 
         
         
