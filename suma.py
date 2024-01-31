@@ -97,7 +97,29 @@ if num_uno < num_dos:
     print("es menor...")
 if num_uno <= num_dos:
     print("Es menor o igual...")
+    
+    
+#proyecto 3
+nombre=input("escribe tu nombre: ")
+print("Hola" + nombre+ "esto es el incremento o decremento de una variable")
 
+print("incremento de una variable")
+x=1
+print(x)
+x+=1
+x+=1
+x+=1
+x+=1
+print(x)
+
+print("Decremento de una variable")
+x=5
+print(x)
+x-=1
+x-=1
+x-=1
+x-=1
+print(x)
 
         
         
