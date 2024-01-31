@@ -122,4 +122,7 @@ x-=1
 print("el valor final de x es: ",x)
 
         
-        
+#calculadora simple
+print("********************")
+print("* Menu de opciones *")
+print("********************")
