@@ -119,8 +119,7 @@ x-=1
 x-=1
 x-=1
 x-=1
-print("el valor final de x es: ",x
-)
+print("el valor final de x es: ",x)
 
         
         
